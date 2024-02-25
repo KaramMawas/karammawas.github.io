@@ -10,12 +10,20 @@ Email |  karam.mawas@gmail.com
 - [Linkedin](https://www.linkedin.com/in/karam-mawas-6103aa98/?locale=en_US)
 - [ORCID](https://orcid.org/0000-0002-8608-7578)
 
-
+<!--
 ## Education
 - Ph.D., Geodesy | [The Technical University of Braunschweig, Institute of Geodesy and Photogrammetry](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) (_Present_)							       		
 - M.Sc., Geomatics Eng.	| The University of Stuttgart (_April 2017_)
 - B.Sc., Surveying Eng. | The University of Aleppo, Topography faculty, Aleppo, Syria (_June 2013_)
+-->
 
+## Education
+
+| Degree         | Institution                                                                 | Completion    |
+|----------------|-----------------------------------------------------------------------------|---------------|
+| Ph.D., Geodesy | [The Technical University of Braunschweig, Institute of Geodesy and Photogrammetry](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) | Present       |
+| M.Sc., Geomatics Eng. | The University of Stuttgart                                            | April 2017    |
+| B.Sc., Surveying Eng. | The University of Aleppo, Topography faculty, Aleppo, Syria           | June 2013     |
 
 ## Work Experience
 **Quality control of additively manufactured building components @ IGP, TU-BS (_May 2020 - Present_)** | [AMC](https://amc-trr277.de/)
@@ -32,12 +40,12 @@ Email |  karam.mawas@gmail.com
 actively contributing to maintenance concept development and city mapping generation. 
 
 
-### DeepLearning Projects
+## DeepLearning Projects
 - **[Instance Segmentation](https://github.com/KaramMawas/InstanceSegmentation)** with custom dataset by using MMDetection.
 
 - **[OBJECT DETECTION](https://github.com/KaramMawas/Yolo_ObjectDetection)** From DIOR dataset by utilizing YOLOv5 & YOLOv8.
 
-### Language Skills
+## Language Skills
 
 | Language | Proficiency |
 |----------|-------------|
@@ -45,7 +53,7 @@ actively contributing to maintenance concept development and city mapping genera
 | English  | Fluent      |
 | German   | B2 Level    |
 
-### Sensors Experience
+## Sensors Experience
 
 | Sensor Type                          | Equipment                                          |
 |--------------------------------------|----------------------------------------------------|
