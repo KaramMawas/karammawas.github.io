@@ -38,6 +38,7 @@ actively contributing to maintenance concept development and city mapping genera
 - **[OBJECT DETECTION](https://github.com/KaramMawas/Yolo_ObjectDetection)** From DIOR dataset by utilizing YOLOv5 & YOLOv8.
 
 ### Language Skills
+
 | Language | Proficiency |
 |----------|-------------|
 | Arabic   | Native      |
@@ -55,7 +56,7 @@ actively contributing to maintenance concept development and city mapping genera
 | **Cameras**                          | Structure from Motion (Photogrammetry) \| DPA - Hexagon |
 | **System Trackers**                  | (Vicon System) Valkyrie                            |
 
-
+<!-- comment this section out!
 ### Sensors Experience
 - **Terrestrial Laser Scanners (TLS)**  | (Z+F) 5010X, 5016 | (Leica) P20, BLK, RTC360
 - **Handheld-Laserscanner**  |  ArtecEva  |  Artec Space Spider |  Shinning3D - Einstar 3D Scanner
@@ -63,6 +64,7 @@ actively contributing to maintenance concept development and city mapping genera
 - **Structured Light System (SLS)** | StereoScan neo R16.2
 - **Cameras** | Structure from Motion (Photogrammetry) | DPA - Hexagon
 - **System Trackers** | (Vicon System) Valkyrie
+-->
 
 ## Publications
 1. Mawas, K., Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313. https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023.
