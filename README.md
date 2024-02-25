@@ -33,7 +33,7 @@ actively contributing to maintenance concept development and city mapping genera
 
 
 ### DeepLearning Projects
-- **[Instance Segmentation](https://github.com/KaramMawas/InstanceSegmentation)** with custom dataset by using mmdetection.
+- **[Instance Segmentation](https://github.com/KaramMawas/InstanceSegmentation)** with custom dataset by using MMDetection.
 
 - **[OBJECT DETECTION](https://github.com/KaramMawas/Yolo_ObjectDetection)** From DIOR dataset by utilizing YOLOv5 AND YOLOv8.
 
