@@ -5,7 +5,8 @@
 
 
 ## Contact Information
-Email |  karam.mawas@gmail.com
+Email: karam.mawas@gmail.com | Tel. +4915209419001
+
 - [Researchgate](https://www.researchgate.net/profile/Karam-Mawas)
 - [Linkedin](https://www.linkedin.com/in/karam-mawas-6103aa98/?locale=en_US)
 - [ORCID](https://orcid.org/0000-0002-8608-7578)
@@ -51,7 +52,7 @@ actively contributing to maintenance concept development and city mapping genera
 |----------|-------------|
 | Arabic   | Native      |
 | English  | Fluent      |
-| German   | B2 Level    |
+| German   | Professional Proficiency    |
 
 ## Sensors Experience
 
@@ -73,6 +74,9 @@ actively contributing to maintenance concept development and city mapping genera
 - **Cameras** | Structure from Motion (Photogrammetry) | DPA - Hexagon
 - **System Trackers** | (Vicon System) Valkyrie
 -->
+
+## Additional Information
+  Driving License: B category
 
 ## Publications
 1. Mawas, K., Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313. https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023.
