@@ -42,6 +42,7 @@ actively contributing to maintenance concept development and city mapping genera
 
 
 ## DeepLearning Projects
+- **[AI-Driven Segmentation of 2D Projections from 3D Point Cloud Data](https://www.linkedin.com/feed/update/urn:li:activity:7213574425097420801/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7213574425097420801%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)**
 - **[Instance Segmentation](https://github.com/KaramMawas/InstanceSegmentation)** with custom dataset by using MMDetection.
 
 - **[OBJECT DETECTION](https://github.com/KaramMawas/Yolo_ObjectDetection)** From DIOR dataset by utilizing YOLOv5 & YOLOv8.
