@@ -41,8 +41,13 @@ Email: karam.mawas@gmail.com | Tel. +4915209419001
 actively contributing to maintenance concept development and city mapping generation. 
 
 
-## DeepLearning Projects
-- **[AI-Driven Segmentation of 2D Projections from 3D Point Cloud Data](https://www.linkedin.com/feed/update/urn:li:activity:7213574425097420801/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7213574425097420801%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)**
+## Engineering and Thechnology Projects
+- **[AI-Driven Segmentation of 2D Projections from 3D Point Cloud Data](https://amc-trr277.de/research-summary-report-of-c06-4/)**
+
+- **[KnitCrete_Monitoring Process & Pins Detection](https://drive.google.com/file/d/1-wcYo70cX6kY_TpKaCAlubiAea2HsUxK/view?usp=sharing)**
+
+- **[Automatic Data Capturing](https://amc-trr277.de/research-summary-report-c06/)**
+  
 - **[Instance Segmentation](https://github.com/KaramMawas/InstanceSegmentation)** with custom dataset by using MMDetection.
 
 - **[OBJECT DETECTION](https://github.com/KaramMawas/Yolo_ObjectDetection)** From DIOR dataset by utilizing YOLOv5 & YOLOv8.
