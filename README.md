@@ -1,7 +1,7 @@
 # Geomatics Engineer / Data Scientist
 
 ##### Soft Skills: Critical thinking, Communication skills, Problem solving, Curiosity, Teamwork
-##### Technical Skills: Python, MATLAB, Tensorflow, Scikit-learn, OpenCv, Open3d, Git, Cloud Compare, Polyworks, GIS, ImageJ, CVAT
+##### Technical Skills: Python, MATLAB, Tensorflow, Scikit-learn, OpenCV, Open3d, Git, Cloud Compare, Polyworks, GIS, ImageJ, CVAT
 
 
 ## Contact Information
@@ -44,7 +44,7 @@ actively contributing to maintenance concept development and city mapping genera
 ## Engineering and Thechnology Projects
 - **[AI-Driven Segmentation of 2D Projections from 3D Point Cloud Data](https://amc-trr277.de/research-summary-report-of-c06-4/)**
 
-- **[KnitCrete_Monitoring Process & Pins Detection](https://drive.google.com/file/d/1-wcYo70cX6kY_TpKaCAlubiAea2HsUxK/view?usp=sharing)**
+- **[KnitCrete Structural Monitoring and Pin Detection System](https://drive.google.com/file/d/1-wcYo70cX6kY_TpKaCAlubiAea2HsUxK/view?usp=sharing)**
 
 - **[Automatic Data Capturing](https://amc-trr277.de/research-summary-report-c06/)**
   
