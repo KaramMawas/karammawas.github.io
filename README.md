@@ -82,7 +82,21 @@ actively contributing to maintenance concept development and city mapping genera
 -->
 
 ## Additional Information
-  Driving License  |  B category
+  <table>
+  <tr>
+    <td>Driver's License</td>
+    <td>B category</td>
+  </tr>
+  <tr>
+    <td>UN</td>
+    <td>Workshop for Civil Society</td>
+  </tr>
+  <tr>
+    <td>Syrian Arab Red Crescent</td>
+    <td>Logistical support during civil crises for 3 months</td>
+  </tr>
+</table>
+
 
 ## Publications
 1. Mawas, K., Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313. https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023.
