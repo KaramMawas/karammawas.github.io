@@ -1,7 +1,7 @@
 # Geomatics Engineer / Data Scientist
 
 ##### Soft Skills: Critical thinking, Communication skills, Problem solving, Curiosity, Teamwork
-##### Technical Skills: Python, MATLAB, Tensorflow, Scikit-learn, OpenCV, Open3d, Git, Cloud Compare, Polyworks, GIS, ImageJ, CVAT
+##### Technical Skills: Python, MATLAB, C++ (basic, learning), Tensorflow, Pytorch (intermediate), Scikit-learn, OpenCV, Open3d, PCL (learning), Git, Docker (understanding), PostgreSQL (understanding), Cloud Compare, Polyworks, GIS, ImageJ, CVAT
 
 
 ## Contact Information
@@ -41,7 +41,7 @@ Email: karam.mawas@gmail.com | Tel. +4915209419001
 actively contributing to maintenance concept development and city mapping generation. 
 
 
-## Engineering and Thechnology Projects
+## Engineering and Technology Projects
 - **[AI-Driven Segmentation of 2D Projections from 3D Point Cloud Data](https://amc-trr277.de/research-summary-report-of-c06-4/)**
 
 - **[KnitCrete Structural Monitoring and Pin Detection System](https://drive.google.com/file/d/1-wcYo70cX6kY_TpKaCAlubiAea2HsUxK/view?usp=sharing)**
