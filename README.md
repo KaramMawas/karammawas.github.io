@@ -35,25 +35,27 @@ Email: karam.mawas@gmail.com | Tel. +4915209419001
 
 
 **Surveying Engineer @ Eagle Eye Technologies, Berlin (_May 2017 - May 2020_)**
-- Applying Kalman filtering for post-processing **navigation data**.
-- Sensors calibrations for optimal performance.
-- Analyzation and documentation of road conditions through **evaluation of scan data and images**, 
-actively contributing to maintenance concept development and city mapping generation. 
+- Application and analysis of Kalman filtering for navigation data **post-processing**.
+- **Calibrate sensors** for optimal performance.
+- Analyzing and documenting road conditions by **evaluating scan data and images**,
+actively contributing to the development of **maintenance** concepts and city maps. 
 
 
 ## Engineering and Technology Projects
 - **[AI-Driven Segmentation of 2D Projections from 3D Point Cloud Data:](https://amc-trr277.de/research-summary-report-of-c06-4/)**
-This project merges point cloud data with image processing through a virtual camera setup, deploying deep learning models to segment different layers of 3D printed objects—**a process that spans from data capture to data preparation and model training.**
+This project combines point cloud data with image processing through a virtual camera setup, using deep learning models to segment different layers of 3D printed objects -
+**a process that spans data acquisition, data preparation, and model training.**
 
 - **[KnitCrete Structural Monitoring and Pin Detection System:](https://drive.google.com/file/d/1-wcYo70cX6kY_TpKaCAlubiAea2HsUxK/view?usp=sharing)**
-This method employs a specialized classification model designed to address the unique geometrical complexities of objects that conventional methods cannot adequately handle. It is used to **detect pins from 3D point cloud data.**
+This method employs a specialized classification model designed to address the unique geometrical complexities of objects that conventional methods cannot adequately handle. It is
+used to **detect pins from 3D point cloud data.**
 
 - **[Automatic Data Capturing:](https://amc-trr277.de/research-summary-report-c06/)**
-An automated data collection system was developed using Terrestrial Laser Scanners mounted on robotic arms. This system drastically **increased process efficiency.**
+An **automated** data collection system was developed using terrestrial laser scanners mounted on robotic arms. This system dramatically **increased** process **efficiency.**
   
-- **[Instance Segmentation](https://github.com/KaramMawas/InstanceSegmentation)** with custom dataset by using **MMDetection.**
+- **[Instance Segmentation](https://github.com/KaramMawas/InstanceSegmentation)** With custom dataset by using **MMDetection.**
 
-- **[OBJECT DETECTION](https://github.com/KaramMawas/Yolo_ObjectDetection)** From **DIOR dataset** by utilizing **YOLOv5 & YOLOv8.**
+- **[OBJECT DETECTION](https://github.com/KaramMawas/Yolo_ObjectDetection)** From **DIOR dataset** using **YOLOv5 & YOLOv8.**
 
 ## Language Skills
 
