@@ -1,4 +1,4 @@
-# Computer Vision Engineer / Data Scientist
+# Geomatics Engineer / Computer Vision Engineer
 
 ##### Soft Skills: Critical thinking, Communication skills, Problem solving, Curiosity, Teamwork
 ##### Technical Skills: Python, MATLAB, Tensorflow, Pytorch, Scikit-learn, OpenCV, Open3d, Git, Cloud Computing (with Clusters), Cloud Compare, Polyworks, QGIS/ArcGIS, ImageJ, CVAT, C++ (intermediate, learning), PCL (learning), Docker (understanding), PostgreSQL (understanding)
@@ -38,7 +38,7 @@ Email: karam.mawas@gmail.com | Tel. +4915209419001
 - Application and analysis of Kalman filtering for navigation data **post-processing**.
 - **Calibrate sensors** for optimal performance.
 - Analyzing and documenting road conditions by **evaluating scan data and images**,
-actively contributing to the development of **maintenance** concepts and city maps. 
+actively contributing to the development of **maintenance** concepts and city mapings. 
 
 
 ## Engineering and Technology Projects
