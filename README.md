@@ -40,6 +40,11 @@ Email: karam.mawas@gmail.com | Tel. +4915209419001
 - Analyzing and documenting road conditions by **evaluating scan data and images**,
 actively contributing to the development of **maintenance** concepts and city mapings. 
 
+## Awards
+
+## Proposal Writing
+
+## Teaching
 
 ## Engineering and Technology Projects
 - **[AI-Driven Segmentation of 2D Projections from 3D Point Cloud Data:](https://amc-trr277.de/research-summary-report-of-c06-4/)**
