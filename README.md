@@ -41,10 +41,17 @@ Email: karam.mawas@gmail.com | Tel. +4915209419001
 actively contributing to the development of **maintenance** concepts and city mapings. 
 
 ## Awards
+**ISPRS Scientific Initiatives 2025**
+[ISPRS benchmark on 3D point cloud to model registration (PC2Model)](https://www.isprs.org/society/si/default.aspx#maboudi)
 
 ## Proposal Writing
+[TRR 277, Phase 2](https://amc-trr277.de/)
 
 ## Teaching
+**Lab, Photogrammetry | for Two Semesters**
+ 1. Conducting lab sessions for introductory courses in photogrammetry.
+ 2. Developing comprehensive slides and teaching materials to support student learning.
+ 3. Designing and conducting experiments to demonstrate key photogrammetric principles.
 
 ## Engineering and Technology Projects
 - **[AI-Driven Segmentation of 2D Projections from 3D Point Cloud Data:](https://amc-trr277.de/research-summary-report-of-c06-4/)**
