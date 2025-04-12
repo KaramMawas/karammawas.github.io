@@ -41,13 +41,13 @@ Email: karam.mawas@gmail.com | Tel. +4915209419001
 actively contributing to the development of **maintenance** concepts and city mapings. 
 
 ## Proposal Writing
--**Scientific DFG Writing proposal for TRR277-AMC**
-[TRR277, second Phase 2024-2027](https://amc-trr277.de/)
+**Scientific DFG Writing proposal for TRR277-AMC**, [TRR277, second Phase 2024-2027](https://amc-trr277.de/)
+
 As part of the C06 - IGP subproject, I was involved in writing the proposal for the second funding phase of TRR277, Appraisal Defense (Begutachtung), including preparing a poster and presentation for the evaluation steps.
 
--**ISPRS Scientific Initiatives 2025**
-Project Scientific Initiatives funding award 2025
-[ISPRS benchmark on 3D point cloud to model registration (PC2Model)](https://www.isprs.org/society/si/default.aspx#maboudi)
+**ISPRS Scientific Initiatives 2025**
+
+Project Scientific Initiatives funding award 2025, [ISPRS benchmark on 3D point cloud to model registration (PC2Model)](https://www.isprs.org/society/si/default.aspx#maboudi)
 
 ## Teaching
 **Lab, Photogrammetry | for Two Semesters**
