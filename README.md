@@ -46,6 +46,7 @@ actively contributing to the development of **maintenance** concepts and city ma
 
 ## Proposal Writing
 [TRR 277, Phase 2](https://amc-trr277.de/)
+As part of the C06 - IGP subproject, I was involved in writing the proposal for the second funding phase of TRR277, Appraisal Defense (Begutachtung), including preparing a poster and presentation for the evaluation steps.
 
 ## Teaching
 **Lab, Photogrammetry | for Two Semesters**
