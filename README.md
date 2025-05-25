@@ -85,7 +85,7 @@ An **automated** data collection system was developed using terrestrial laser sc
 |--------------------------------------|----------------------------------------------------|
 | **Terrestrial Laser Scanners (TLS)** | (Z+F) 5010X, 5016 \| (Leica) P20, BLK, RTC360      |
 | **Handheld-Laserscanner**            | ArtecEva \| Artec Space Spider \| Shinning3D - Einstar 3D Scanner |
-| **Structured Light System (SLS)**    | StereoScan neo R16.2                               |
+| **Structured Light System (SLS)**    | StereoScan neo R16.2, PrimeScan                               |
 | **Cameras**                          | Structure from Motion (Photogrammetry) \| DPA - Hexagon |
 | **System Trackers**                  | (Vicon System) Valkyrie                            |
 | **Total Stations**                   | (Leica) MS50, TS60                                 |
@@ -95,7 +95,7 @@ An **automated** data collection system was developed using terrestrial laser sc
 - **Terrestrial Laser Scanners (TLS)**  | (Z+F) 5010X, 5016 | (Leica) P20, BLK, RTC360
 - **Handheld-Laserscanner**  |  ArtecEva  |  Artec Space Spider |  Shinning3D - Einstar 3D Scanner
 - **Total Stations** | (Leica) MS50, TS60
-- **Structured Light System (SLS)** | StereoScan neo R16.2, PrimeScan
+- **Structured Light System (SLS)** | StereoScan neo R16.2
 - **Cameras** | Structure from Motion (Photogrammetry) | DPA - Hexagon
 - **System Trackers** | (Vicon System) Valkyrie
 -->
@@ -119,7 +119,7 @@ An **automated** data collection system was developed using terrestrial laser sc
 
 ## Publications
 1. **Mawas, K.**, Maboudi, M., & Gerke, M. (2025). A Review on Geometry and Surface Inspection in 3D Concrete Printing. arXiv preprint arXiv:2503.07472, https://arxiv.org/abs/2503.07472.
-2. Dörrie, R., (et al.), **Mawas, K.**}. From Digital to Real: Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures. Buildings 2025, 15, 1461, https://doi.org/10.3390/buildings15091461
+2. Dörrie, R., (et al.), **Mawas, K.** (2025). From Digital to Real: Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures. Buildings 2025, 15, 1461, https://doi.org/10.3390/buildings15091461
 3. Wolfs, R., (et al.), & **Mawas, K.** (2024). On-line and in-line quality assessment across all scale levels of 3D concrete printing, Cement and Concrete Research, Volume 185, 2024, 107646, ISSN 0008-8846, https://doi.org/10.1016/j.cemconres.2024.107646.
 4. **Mawas, K.**, Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313. https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023.
 5. Rennen, P., (et al.), & **Mawas, K.** (2023). Robotic Knitcrete: Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D-Knitted Formwork. Frontiers in Built Environment, 9:1269000. https://doi.org/10.3389/fbuil.2023.1269000.
