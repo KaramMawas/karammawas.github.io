@@ -28,10 +28,11 @@ Email: karam.mawas@gmail.com | Tel. +4915209419001
 
 ## Work Experience
 **Quality control of additively manufactured building components @ IGP, TU-BS (_May 2020 - Present_)** | [AMC](https://amc-trr277.de/)
-- Developing an automated data capturing approach for TLS in the production printing lab.
+- Developing an **automated data** capturing approach for **TLS** in the production printing lab.
 - Comparing registration approaches between direct **co-registration** and **ICP-based** methods, emphasizing their distinctions.
 - Innovating **computer vision and deep learning** methods for quality control of printing objects as well as the filaments of the object, with a focus on SC3DP and Extrusion base during production.
 - Conducting comprehensive research on the current state of **quality control** for concrete 3D printed specimens and the corresponding sensor technology in use.
+- **Sensor comparison (Camera-Photogrammetry, SLS, and TLS)** and combine measurement standard deviation with **tolerances** according to the relevant standards.
 
 
 **Surveying Engineer @ Eagle Eye Technologies, Berlin (_May 2017 - May 2020_)**
@@ -54,6 +55,10 @@ Project Scientific Initiatives funding award 2025, [ISPRS benchmark on 3D point 
  1. Conducting lab sessions for introductory courses in photogrammetry.
  2. Developing comprehensive slides and teaching materials to support student learning.
  3. Designing and conducting experiments to demonstrate key photogrammetric principles.
+
+**Lab, TLS**
+• Conducting experiments/lab sessions for TLS workflow.
+• Instrument setup, network planning, registration, and data post-processing.
 
 ## Engineering and Technology Projects
 - **[AI-Driven Segmentation of 2D Projections from 3D Point Cloud Data:](https://amc-trr277.de/research-summary-report-of-c06-4/)**
@@ -84,7 +89,7 @@ An **automated** data collection system was developed using terrestrial laser sc
 | Sensor Type                          | Equipment                                          |
 |--------------------------------------|----------------------------------------------------|
 | **Terrestrial Laser Scanners (TLS)** | (Z+F) 5010X, 5016 \| (Leica) P20, BLK, RTC360      |
-| **Handheld-Laserscanner**            | ArtecEva \| Artec Space Spider \| Shinning3D - Einstar 3D Scanner |
+| **Handheld-Laserscanner**            | ArtecEva \| Artec Space Spider \| Shining3D - Einstar 3D Scanner |
 | **Structured Light System (SLS)**    | StereoScan neo R16.2, PrimeScan                               |
 | **Cameras**                          | Structure from Motion (Photogrammetry) \| DPA - Hexagon |
 | **System Trackers**                  | (Vicon System) Valkyrie                            |
@@ -118,7 +123,7 @@ An **automated** data collection system was developed using terrestrial laser sc
 
 
 ## Publications
-1. **Mawas, K.**, Maboudi, M., & Gerke, M. (2025). A Review on Geometry and Surface Inspection in 3D Concrete Printing. arXiv preprint arXiv:2503.07472, https://arxiv.org/abs/2503.07472.
+1. **Mawas, K.**, Maboudi, M., & Gerke, M. (2025). A Review on Geometry and Surface Inspection in 3D Concrete Printing. Cement and Concrete Research, 199, 108030, https://doi.org/10.1016/j.cemconres.2025.108030.
 2. Maboudi, M., Mawas, K., and Gerke, M. (2025): Geometric Inspection in 3D Concrete Manufacturing: Comparison of Data Capturing Techniques, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-G-2025, 1029–1034, https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-1029-2025, 2025.
 3. Dörrie, R., (et al.), **Mawas, K.** (2025). From Digital to Real: Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures. Buildings 2025, 15, 1461, https://doi.org/10.3390/buildings15091461
 4. Wolfs, R., (et al.), & **Mawas, K.** (2024). On-line and in-line quality assessment across all scale levels of 3D concrete printing, Cement and Concrete Research, Volume 185, 2024, 107646, ISSN 0008-8846, https://doi.org/10.1016/j.cemconres.2024.107646.
