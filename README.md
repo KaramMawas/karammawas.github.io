@@ -22,7 +22,7 @@ Email: karam.mawas@gmail.com | Tel. +4915209419001
 
 | Degree         | Institution                                                                 | Completion    |
 |----------------|-----------------------------------------------------------------------------|---------------|
-| Doctoral Researcher (PhD Student), Geomatics | [The Technical University of Braunschweig, Institute of Geodesy and Photogrammetry](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) | Present       |
+| Research Assistant, Geomatics | [The Technical University of Braunschweig, Institute of Geodesy and Photogrammetry](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) | Present       |
 | M.Sc., Geomatics Eng. | The University of Stuttgart                                            | April 2017    |
 | B.Sc., Surveying Eng. | The University of Aleppo, Topography faculty, Aleppo, Syria           | September 2013     |
 
@@ -40,6 +40,22 @@ Email: karam.mawas@gmail.com | Tel. +4915209419001
 - **Calibrate sensors** for optimal performance.
 - Analyzing and documenting road conditions by **evaluating scan data and images**,
 actively contributing to the development of **maintenance** concepts and city mapings. 
+
+## Engineering and Technology Projects
+- **[AI-Driven Segmentation of 2D Projections from 3D Point Cloud Data:](https://amc-trr277.de/research-summary-report-of-c06-4/)**
+This project combines point cloud data with image processing through a virtual camera setup, using deep learning models to segment different layers of 3D printed objects -
+**a process that spans data acquisition, data preparation, and model training.**
+
+- **[KnitCrete Structural Monitoring and Pin Detection System:](https://drive.google.com/file/d/1-wcYo70cX6kY_TpKaCAlubiAea2HsUxK/view?usp=sharing)**
+This method employs a specialized classification model designed to address the unique geometrical complexities of objects that conventional methods cannot adequately handle. It is
+used to **detect pins from 3D point cloud data.**
+
+- **[Automatic Data Capturing:](https://amc-trr277.de/research-summary-report-c06/)**
+An **automated** data collection system was developed using terrestrial laser scanners mounted on robotic arms. This system dramatically **increased** process **efficiency.**
+  
+- **[Instance Segmentation](https://github.com/KaramMawas/InstanceSegmentation)** With custom dataset by using **MMDetection.**
+
+- **[OBJECT DETECTION](https://github.com/KaramMawas/Yolo_ObjectDetection)** From **DIOR dataset** using **YOLOv5 & YOLOv8.**
 
 ## Proposal Writing
 **Scientific DFG Writing proposal for TRR277-AMC**, [TRR277, second Phase 2024-2027](https://amc-trr277.de/)
@@ -59,22 +75,6 @@ Project Scientific Initiatives funding award 2025, [ISPRS benchmark on 3D point 
 **Lab, TLS**
 1. Conducting experiments/lab sessions for TLS workflow.
 2. Instrument setup, network planning, registration, and data post-processing.
-
-## Engineering and Technology Projects
-- **[AI-Driven Segmentation of 2D Projections from 3D Point Cloud Data:](https://amc-trr277.de/research-summary-report-of-c06-4/)**
-This project combines point cloud data with image processing through a virtual camera setup, using deep learning models to segment different layers of 3D printed objects -
-**a process that spans data acquisition, data preparation, and model training.**
-
-- **[KnitCrete Structural Monitoring and Pin Detection System:](https://drive.google.com/file/d/1-wcYo70cX6kY_TpKaCAlubiAea2HsUxK/view?usp=sharing)**
-This method employs a specialized classification model designed to address the unique geometrical complexities of objects that conventional methods cannot adequately handle. It is
-used to **detect pins from 3D point cloud data.**
-
-- **[Automatic Data Capturing:](https://amc-trr277.de/research-summary-report-c06/)**
-An **automated** data collection system was developed using terrestrial laser scanners mounted on robotic arms. This system dramatically **increased** process **efficiency.**
-  
-- **[Instance Segmentation](https://github.com/KaramMawas/InstanceSegmentation)** With custom dataset by using **MMDetection.**
-
-- **[OBJECT DETECTION](https://github.com/KaramMawas/Yolo_ObjectDetection)** From **DIOR dataset** using **YOLOv5 & YOLOv8.**
 
 ## Language Skills
 
@@ -123,15 +123,15 @@ An **automated** data collection system was developed using terrestrial laser sc
 
 
 ## Publications
-1. **Mawas, K.**, Maboudi, M., & Gerke, M. (2025). A Review on Geometry and Surface Inspection in 3D Concrete Printing. Cement and Concrete Research, 199, 108030, https://doi.org/10.1016/j.cemconres.2025.108030.
-2. Maboudi, M., Mawas, K., and Gerke, M. (2025): Geometric Inspection in 3D Concrete Manufacturing: Comparison of Data Capturing Techniques, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-G-2025, 1029–1034, https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-1029-2025, 2025.
-3. Dörrie, R., (et al.), **Mawas, K.** (2025). From Digital to Real: Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures. Buildings 2025, 15, 1461, https://doi.org/10.3390/buildings15091461
-4. Wolfs, R., (et al.), & **Mawas, K.** (2024). On-line and in-line quality assessment across all scale levels of 3D concrete printing, Cement and Concrete Research, Volume 185, 2024, 107646, ISSN 0008-8846, https://doi.org/10.1016/j.cemconres.2024.107646.
-5. **Mawas, K.**, Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313. https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023.
-6. Rennen, P., (et al.), & **Mawas, K.** (2023). Robotic Knitcrete: Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D-Knitted Formwork. Frontiers in Built Environment, 9:1269000. https://doi.org/10.3389/fbuil.2023.1269000.
-7. Slepicka, M., **Mawas, K.**, Borrmann, A., Maboudi, M., & Gerke, M. (2023). Digital Twinning in Additive Manufacturing - Closing the Digital-Physical-Digital Loop by Automated Integration of Captured Geometric Data into Fabrication Information Models. In Advances in Information Technology in Civil and Building Engineering. https://doi.org/10.1007/978-3-031-35399-4_34.
-8. **Mawas, K.**, Maboudi, M., & Gerke, M. (2022). Direct Co-registration of As-Built and As-Designed Data in Digital Fabrication. 42nd Wissenschaftlich-Technische Jahrestagung der DGPF. https://www.tib.eu/suchen/id/TIBKAT:1796027855.
-9. Wieser, A., (et al.), & **Mawas, K.** (2022). Erfahrungen aus einem Koordinierten Vergleich Aktueller Scanner. In Terrestrisches Laserscanning 2022 (TLS 2022), DVW-Schriftenreihe, Band 104/2022. Wißner Verlag, Augsburg.
-10. Placzek, G., Brohmann, L., **Mawas, K.**, Schwerdtner, P., Hack, N., Maboudi, M., & Gerke, M. (2021). A Lean-Based Production Approach for Shotcrete 3D Printed Concrete Components. In Proceedings of the 38th International Symposium on Automation and Robotics in Construction (ISARC), Dubai, UAE, 811-818. https://doi.org/10.22260/isarc2021/0110.
-11. **Mawas, K.**, Maboudi, M., & Gerke, M. (2022). Automatic Geometric Inspection in Digital Fabrication. International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, XLIII-B1-2022, 459–466. https://doi.org/10.5194/isprs-archives-XLIII-B1-2022-459-2022.
-12. Hack, N., Jantzen, C., Brohmann, L., Gerke, M., **Mawas, K.**, & Maboudi, M. (2022). A Closed-Loop Workflow for Quality Inspection and Integrated Post-Processing of 3D-Printed Concrete Elements. In R. Buswell, A. Blanco, S. Cavalaro, & P. Kinnell (Eds.), Third RILEM International Conference on Concrete and Digital Fabrication. DC 2022. RILEM Bookseries, vol 37. Springer, Cham. https://doi.org/10.1007/978-3-031-06116-5_54.
+1. **Mawas, K.**, Maboudi, M., & Gerke, M. (2025). A Review on Geometry and Surface Inspection in 3D Concrete Printing. Cement and Concrete Research, 199, 108030, [https://doi.org/10.1016/j.cemconres.2025.108030](https://doi.org/10.1016/j.cemconres.2025.108030).
+3. Maboudi, M., Mawas, K., and Gerke, M. (2025): Geometric Inspection in 3D Concrete Manufacturing: Comparison of Data Capturing Techniques, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-G-2025, 1029–1034, [https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-1029-2025](https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-1029-2025).
+5. Dörrie, R., (et al.), **Mawas, K.** (2025). From Digital to Real: Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures. Buildings 2025, 15, 1461, [https://doi.org/10.3390/buildings15091461](https://doi.org/10.3390/buildings15091461).
+6. Wolfs, R., (et al.), & **Mawas, K.** (2024). On-line and in-line quality assessment across all scale levels of 3D concrete printing, Cement and Concrete Research, Volume 185, 2024, 107646, ISSN 0008-8846, [https://doi.org/10.1016/j.cemconres.2024.107646](https://doi.org/10.1016/j.cemconres.2024.107646).
+7. **Mawas, K.**, Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313, [https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023](https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023).
+9. Rennen, P., (et al.), & **Mawas, K.** (2023). Robotic Knitcrete: Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D-Knitted Formwork. Frontiers in Built Environment, 9:1269000, [https://doi.org/10.3389/fbuil.2023.1269000](https://doi.org/10.3389/fbuil.2023.1269000).
+10. Slepicka, M., **Mawas, K.**, Borrmann, A., Maboudi, M., & Gerke, M. (2023). Digital Twinning in Additive Manufacturing - Closing the Digital-Physical-Digital Loop by Automated Integration of Captured Geometric Data into Fabrication Information Models. In Advances in Information Technology in Civil and Building Engineering, [https://doi.org/10.1007/978-3-031-35399-4_34](https://doi.org/10.1007/978-3-031-35399-4_34).
+11. **Mawas, K.**, Maboudi, M., & Gerke, M. (2022). Direct Co-registration of As-Built and As-Designed Data in Digital Fabrication. 42nd Wissenschaftlich-Technische Jahrestagung der DGPF, [https://www.tib.eu/suchen/id/TIBKAT:1796027855](https://www.tib.eu/suchen/id/TIBKAT:1796027855).
+12. Wieser, A., (et al.), & **Mawas, K.** (2022). Erfahrungen aus einem Koordinierten Vergleich Aktueller Scanner. In Terrestrisches Laserscanning 2022 (TLS 2022), DVW-Schriftenreihe, Band 104/2022. Wißner Verlag, Augsburg, [https://geodaesie.info/dvw-schriftenreihe/schriftenreihe-archiv/schriftenreihe-band-104](https://geodaesie.info/dvw-schriftenreihe/schriftenreihe-archiv/schriftenreihe-band-104).
+14. Placzek, G., Brohmann, L., **Mawas, K.**, Schwerdtner, P., Hack, N., Maboudi, M., & Gerke, M. (2021). A Lean-Based Production Approach for Shotcrete 3D Printed Concrete Components. In Proceedings of the 38th International Symposium on Automation and Robotics in Construction (ISARC), Dubai, UAE, 811-818, [https://doi.org/10.22260/isarc2021/0110](https://doi.org/10.22260/isarc2021/0110).
+16. **Mawas, K.**, Maboudi, M., & Gerke, M. (2022). Automatic Geometric Inspection in Digital Fabrication. International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, XLIII-B1-2022, 459–466, [https://doi.org/10.5194/isprs-archives-XLIII-B1-2022-459-2022](https://doi.org/10.5194/isprs-archives-XLIII-B1-2022-459-2022).
+17. Hack, N., Jantzen, C., Brohmann, L., Gerke, M., **Mawas, K.**, & Maboudi, M. (2022). A Closed-Loop Workflow for Quality Inspection and Integrated Post-Processing of 3D-Printed Concrete Elements. In R. Buswell, A. Blanco, S. Cavalaro, & P. Kinnell (Eds.), Third RILEM International Conference on Concrete and Digital Fabrication. DC 2022. RILEM Bookseries, vol 37. Springer, Cham, [https://doi.org/10.1007/978-3-031-06116-5_54](https://doi.org/10.1007/978-3-031-06116-5_54).
