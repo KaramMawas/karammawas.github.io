@@ -57,8 +57,8 @@ Project Scientific Initiatives funding award 2025, [ISPRS benchmark on 3D point 
  3. Designing and conducting experiments to demonstrate key photogrammetric principles.
 
 **Lab, TLS**
-• Conducting experiments/lab sessions for TLS workflow.
-• Instrument setup, network planning, registration, and data post-processing.
+1. Conducting experiments/lab sessions for TLS workflow.
+2. Instrument setup, network planning, registration, and data post-processing.
 
 ## Engineering and Technology Projects
 - **[AI-Driven Segmentation of 2D Projections from 3D Point Cloud Data:](https://amc-trr277.de/research-summary-report-of-c06-4/)**
