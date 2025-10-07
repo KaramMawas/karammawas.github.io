@@ -119,6 +119,10 @@ Project Scientific Initiatives funding award 2025, [ISPRS benchmark on 3D point 
     <td>Syrian Arab Red Crescent</td>
     <td>Logistical support during civil crises for 3 months</td>
   </tr>
+  <tr>
+    <td>Nationality</td>
+    <td>German</td>
+  </tr>
 </table>
 
 
