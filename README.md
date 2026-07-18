@@ -22,12 +22,12 @@ Email: karam.mawas@gmail.com | Tel. +4915209419001
 
 | Degree         | Institution                                                                 | Completion    |
 |----------------|-----------------------------------------------------------------------------|---------------|
-| Research Assistant, Geomatics | [The Technical University of Braunschweig, Institute of Geodesy and Photogrammetry](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) | Present       |
+| Ph. D., Geomatics Eng. | [The Technical University of Braunschweig, Institute of Geodesy and Photogrammetry](https://www.tu-braunschweig.de/igp/mitarbeiter/mawas-karam) | May 2026       |
 | M.Sc., Geomatics Eng. | The University of Stuttgart                                            | April 2017    |
 | B.Sc., Surveying Eng. | The University of Aleppo, Topography faculty, Aleppo, Syria           | September 2013     |
 
 ## Work Experience
-**Quality control of additively manufactured building components @ IGP, TU-BS (_May 2020 - Present_)** | [AMC](https://amc-trr277.de/)
+**Quality control of additively manufactured building components @ IGP, TU-BS (_May 2020 - May 2026_)** | [AMC](https://amc-trr277.de/)
 - Developing an **automated data** capturing approach for **TLS** in the production printing lab.
 - Comparing registration approaches between direct **co-registration** and **ICP-based** methods, emphasizing their distinctions.
 - Innovating **computer vision and deep learning** methods for quality control of printing objects as well as the filaments of the object, with a focus on SC3DP and Extrusion base during production.
@@ -127,8 +127,10 @@ Project Scientific Initiatives funding award 2025, [ISPRS benchmark on 3D point 
 
 
 ## Publications
-1. **Mawas, K.**, Maboudi, M., & Gerke, M. (2025). A Review on Geometry and Surface Inspection in 3D Concrete Printing. Cement and Concrete Research, 199, 108030, [https://doi.org/10.1016/j.cemconres.2025.108030](https://doi.org/10.1016/j.cemconres.2025.108030).
-3. Maboudi, M., Mawas, K., and Gerke, M. (2025): Geometric Inspection in 3D Concrete Manufacturing: Comparison of Data Capturing Techniques, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-G-2025, 1029–1034, [https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-1029-2025](https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-1029-2025).
+1. Maboudi, M., Harb, S., Ferrao, J., Khoshelham, K., Turkan, Y., & **Mawas, K.** (2026). PC2Model: ISPRS benchmark on 3D point cloud to model registration. arXiv preprint, arXiv:2604.19596, [https://arxiv.org/abs/2604.19596](https://arxiv.org/abs/2604.19596).
+2. Gerke, M.; **Mawas, K.**; Heeren, H.; Raatz, A. (2026) Digital Monitoring and Control of Modular, Additive Manufacturing in Construction. Beton- und Stahlbetonbau 121, Sonderheft Modular Construction & Reuse S1, pp. 302–305. [https://doi.org/10.1002/best.70156](https://doi.org/10.1002/best.70156)
+3. **Mawas, K.**, Maboudi, M., & Gerke, M. (2025). A Review on Geometry and Surface Inspection in 3D Concrete Printing. Cement and Concrete Research, 199, 108030, [https://doi.org/10.1016/j.cemconres.2025.108030](https://doi.org/10.1016/j.cemconres.2025.108030).
+4. Maboudi, M., Mawas, K., and Gerke, M. (2025): Geometric Inspection in 3D Concrete Manufacturing: Comparison of Data Capturing Techniques, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-G-2025, 1029–1034, [https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-1029-2025](https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-1029-2025).
 5. Dörrie, R., (et al.), **Mawas, K.** (2025). From Digital to Real: Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures. Buildings 2025, 15, 1461, [https://doi.org/10.3390/buildings15091461](https://doi.org/10.3390/buildings15091461).
 6. Wolfs, R., (et al.), & **Mawas, K.** (2024). On-line and in-line quality assessment across all scale levels of 3D concrete printing, Cement and Concrete Research, Volume 185, 2024, 107646, ISSN 0008-8846, [https://doi.org/10.1016/j.cemconres.2024.107646](https://doi.org/10.1016/j.cemconres.2024.107646).
 7. **Mawas, K.**, Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313, [https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023](https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023).
