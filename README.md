@@ -69,7 +69,7 @@ An **automated** data collection system was developed using terrestrial laser sc
 
 **Scientific DFG Writing proposal for TRR277-AMC**, [TRR277, second Phase 2024-2027](https://amc-trr277.de/)
 
-- As part of the C06 - IGP subproject, I was involved in writing the proposal for the second funding phase of TRR277, Appraisal Defense (Begutachtung), including preparing a poster and presentation for the evaluation steps.
+- As part of the C06-IGP subproject, I was a co-author of the proposal for the second funding phase of TRR277, 'Appraisal Defence' (Begutachtung), including preparing a poster and presentation for the evaluation steps.
 
 **ISPRS Scientific Initiatives 2025**
 
