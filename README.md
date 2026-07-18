@@ -28,9 +28,9 @@ Email: karam.mawas@gmail.com | Tel. +4915209419001
 
 ## Work Experience
 **Freiraum @ IGP, TU-BS (_April 2026 - Present_)**
-- Designed an innovative, research-based module bridging the gap between academia and digital construction practices.
-- Integrated advanced training in reality capture and spatial data processing using a real-world laboratory environment.
-- Prepared next-generation engineers and architects to lead digital and sustainable transformations in the building industry.
+- Designed an innovative, **research-based module** bridging the gap between academia and digital construction practices.
+- Integrated advanced training in **reality capture and spatial data processing** using a real-world laboratory environment.
+- Prepared next-generation engineers and architects to lead **digital and sustainable transformations in the building industry**.
 
 **Quality control of additively manufactured building components @ IGP, TU-BS (_May 2020 - May 2026_)** | [AMC](https://amc-trr277.de/)
 - Developing an **automated data** capturing approach for **TLS** in the production printing lab.
