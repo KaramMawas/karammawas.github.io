@@ -27,7 +27,10 @@ Email: karam.mawas@gmail.com | Tel. +4915209419001
 | B.Sc., Surveying Eng. | The University of Aleppo, Faculty of Civil Engineering, Topography Department, Aleppo, Syria           | September 2013     |
 
 ## Work Experience
-**Freiraum @ IGP, TU-BS (_Jun 2026 - Present_)**
+**Freiraum @ IGP, TU-BS (_April 2026 - Present_)**
+- Designed an innovative, research-based module bridging the gap between academia and digital construction practices.
+- Integrated advanced training in reality capture and spatial data processing using a real-world laboratory environment.
+- Prepared next-generation engineers and architects to lead digital and sustainable transformations in the building industry.
 
 **Quality control of additively manufactured building components @ IGP, TU-BS (_May 2020 - May 2026_)** | [AMC](https://amc-trr277.de/)
 - Developing an **automated data** capturing approach for **TLS** in the production printing lab.
@@ -60,15 +63,17 @@ An **automated** data collection system was developed using terrestrial laser sc
 - **[OBJECT DETECTION](https://github.com/KaramMawas/Yolo_ObjectDetection)** From **DIOR dataset** using **YOLOv5 & YOLOv8.**
 
 ## Funding Applications
-**Freiraum Teachning module 2026-2028**
+**Freiraum Teachning module April 2026- March 2028**
+- Successful co-author of a Master's research-based module, an innovative educational project that transformed digital construction training for architecture and civil engineering students.
+- Structured a comprehensive, two-semester Master’s curriculum focusing on high-tech integration, including reality capture and spatial data analysis.
 
 **Scientific DFG Writing proposal for TRR277-AMC**, [TRR277, second Phase 2024-2027](https://amc-trr277.de/)
 
-As part of the C06 - IGP subproject, I was involved in writing the proposal for the second funding phase of TRR277, Appraisal Defense (Begutachtung), including preparing a poster and presentation for the evaluation steps.
+- As part of the C06 - IGP subproject, I was involved in writing the proposal for the second funding phase of TRR277, Appraisal Defense (Begutachtung), including preparing a poster and presentation for the evaluation steps.
 
 **ISPRS Scientific Initiatives 2025**
 
-Project Scientific Initiatives funding award 2025, [ISPRS benchmark on 3D point cloud to model registration (PC2Model)](https://www.isprs.org/society/si/default.aspx#maboudi)
+- Project Scientific Initiatives funding award 2025, [ISPRS benchmark on 3D point cloud to model registration (PC2Model)](https://www.isprs.org/society/si/default.aspx#maboudi)
 
 ## Teaching
 **Lab, Photogrammetry | for Two Semesters**
@@ -132,9 +137,9 @@ Project Scientific Initiatives funding award 2025, [ISPRS benchmark on 3D point 
 
 ## Publications
 1. Maboudi, M., Harb, S., Ferrao, J., Khoshelham, K., Turkan, Y., & **Mawas, K.** (2026). PC2Model: ISPRS benchmark on 3D point cloud to model registration. arXiv preprint, arXiv:2604.19596, [https://arxiv.org/abs/2604.19596](https://arxiv.org/abs/2604.19596).
-2. Gerke, M.; **Mawas, K.**; Heeren, H.; Raatz, A. (2026) Digital Monitoring and Control of Modular, Additive Manufacturing in Construction. Beton- und Stahlbetonbau 121, Sonderheft Modular Construction & Reuse S1, pp. 302–305. [https://doi.org/10.1002/best.70156](https://doi.org/10.1002/best.70156)
+2. Gerke, M.; **Mawas, K.**; Heeren, H.; Raatz, A. (2026). Digital Monitoring and Control of Modular, Additive Manufacturing in Construction. Beton- und Stahlbetonbau 121, Sonderheft Modular Construction & Reuse S1, pp. 302–305. [https://doi.org/10.1002/best.70156](https://doi.org/10.1002/best.70156)
 3. **Mawas, K.**, Maboudi, M., & Gerke, M. (2025). A Review on Geometry and Surface Inspection in 3D Concrete Printing. Cement and Concrete Research, 199, 108030, [https://doi.org/10.1016/j.cemconres.2025.108030](https://doi.org/10.1016/j.cemconres.2025.108030).
-4. Maboudi, M., Mawas, K., and Gerke, M. (2025): Geometric Inspection in 3D Concrete Manufacturing: Comparison of Data Capturing Techniques, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-G-2025, 1029–1034, [https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-1029-2025](https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-1029-2025).
+4. Maboudi, M., Mawas, K., and Gerke, M. (2025). Geometric Inspection in 3D Concrete Manufacturing: Comparison of Data Capturing Techniques, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-G-2025, 1029–1034, [https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-1029-2025](https://doi.org/10.5194/isprs-archives-XLVIII-G-2025-1029-2025).
 5. Dörrie, R., (et al.), **Mawas, K.** (2025). From Digital to Real: Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures. Buildings 2025, 15, 1461, [https://doi.org/10.3390/buildings15091461](https://doi.org/10.3390/buildings15091461).
 6. Wolfs, R., (et al.), & **Mawas, K.** (2024). On-line and in-line quality assessment across all scale levels of 3D concrete printing, Cement and Concrete Research, Volume 185, 2024, 107646, ISSN 0008-8846, [https://doi.org/10.1016/j.cemconres.2024.107646](https://doi.org/10.1016/j.cemconres.2024.107646).
 7. **Mawas, K.**, Maboudi, M., & Gerke, M. (2023). Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-1/W2-2023, 307-313, [https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023](https://doi.org/10.5194/isprs-archives-XLVIII-1-W2-2023-307-2023).
