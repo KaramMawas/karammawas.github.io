@@ -64,8 +64,8 @@ An **automated** data collection system was developed using terrestrial laser sc
 
 ## Funding Applications
 **Freiraum Teachning module April 2026- March 2028**
-- Successful co-author of a Master's research-based module, an innovative educational project that transformed digital construction training for architecture and civil engineering students.
-- Structured a comprehensive, two-semester Master’s curriculum focusing on high-tech integration, including reality capture and spatial data analysis.
+- Successful co-author of a **Master's research-based module**, an innovative educational project that transformed digital construction training for architecture and civil engineering students.
+- Structured a comprehensive, two-semester Master’s curriculum focusing on high-tech integration, **including reality capture and spatial data analysis**.
 
 **Scientific DFG Writing proposal for TRR277-AMC**, [TRR277, second Phase 2024-2027](https://amc-trr277.de/)
 
